@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(173, 230, 187);
+}
+.kozep{
+    margin-right: auto;
+    margin-left: auto;
+    padding: 1rem;
+    text-align: center;
+    width: 60%;
+    background-color: beige;
+    border: 5px;
+    border-style: double;
+}
+.sz_kozep{
+    text-align: center;
+}
+button{
+    background-color: lightcyan;
+    color: rgb(139, 0, 120);
+}
+a{
+    margin: 5px;
+    padding: 5px;
+    text-decoration: none;
+    color: darkblue;
+}
+table{
+    margin: 10px;
+    padding: 10px;
+    border: 1px black solid;
+}
